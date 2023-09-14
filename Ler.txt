@@ -1,0 +1,3 @@
+Este é um mini projeto com o objetivo de aprofundar meus conhecimentos relacionados a
+construção de metodos genericos, o conhecimento de POO e a utilização de WindowsForms
+ 
